@@ -1,5 +1,5 @@
 # EMRN
- [An efficient multiresolution network for vehicle reidentification](https://ieeexplore.ieee.org/abstract/document/9569744)  
+ IOTJ-2021：[An efficient multiresolution network for vehicle reidentification](https://ieeexplore.ieee.org/abstract/document/9569744)  
 
 
 
